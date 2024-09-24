@@ -10,7 +10,7 @@ layout: default
     <img src="images/profile.jpg" />
 </div>
 <div id="right" style="float: right; width: 65%; vertical-align: middle;">
-<p> <b>Umberto Villa, PhD</b> <br> <em>Research Associate Professor</em> </p>
+<p> <b>Sungyeb Jung</b> <br> <em>Graduate student of The University of Texas at Austin</em> </p>
 <p> <a href="https://oden.utexas.edu" target="blank">Oden Institute for Computational Engineering and Sciences</a><br>
 <a href="https://utexas.edu" target="blank">The University of Texas at Austin</a></p>
 <p> <a href="files/UmbertoVilla_cv.pdf">Curriculum vitae </a> </p>
