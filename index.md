@@ -14,4 +14,7 @@ _Graduate Student_
 [Oden Insititute for Computational Engineering and Sciences](https://oden.utexas.edu)   
 [The University of Texas at Austin](https://utexas.edu)   
 
-I obtained my Bacholer's and Master's degree in Physics
+## Education
+
+*   2021	M.S. Physics, Pusan National University
+*   2019	B.S. Physics, Pusan National University
