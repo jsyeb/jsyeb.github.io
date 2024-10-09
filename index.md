@@ -18,4 +18,15 @@ _Graduate Student_
 *   2021 M.S. Physics, Pusan National University
 *   2019 B.S. Physics, Pusan National University
 
+### Research interests
 
+- Electron-phonon interaction
+  - Transport(conductivity/mobility)
+  - Thermoelectric properties
+  - Phonon linewidth(self-energy)
+- Phonon-phonon interaction
+  - Lattice thermal conductivity
+  - High pressure phonon dispersion engineering
+- Fortran development
+  - [Quantum Espresso](https://www.quantum-espresso.org/)
+  - [EPW](https://epw-code.org/)
