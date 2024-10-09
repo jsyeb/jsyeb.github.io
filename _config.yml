@@ -1,12 +1,11 @@
 title: Sungyeb Jung
-logo: /images/logo.jpg
+logo: /images/logo.png
 description: Graduate student <br> Department of Physics and Oden institute, <br> The university of Texas at Austin
 author: Sungyeb Jung
 author_email: jsyeb@utexas.edu
 google_analytics:
 theme: jekyll-theme-minimal
 
-link_type: icon #text/icon
 google_scholar: https://scholar.google.com/citations?user=fEgd26EAAAAJ
 github_link: https://github.com/jsyeb/
 
