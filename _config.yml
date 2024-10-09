@@ -6,27 +6,7 @@ author_email: jsyeb@utexas.edu
 google_analytics:
 theme: jekyll-theme-minimal
 
-favicon: true
-color-scheme: auto
+link_type: icon #text/icon
+google_scholar: https://scholar.google.com/citations?user=fEgd26EAAAAJ
+github_link: https://github.com/jsyeb/
 
-plugins:
-  - jekyll-sitemap
-  - jekyll-seo-tag
-  - jemoji
-
-platforms:
-  - name: GitHub
-    icon: <i class="fa-brands fa-github"></i>
-    link: https://github.com/jsyeb
-  - name: Google Scholar
-    icon: <i class="fa-brands fa-google-scholar"></i>
-    link: https://scholar.google.com/citations?user=fEgd26EAAAAJ
-
-navigation:
-  - name: Readme
-    link: ./index.html
-    sublist:
-      - name: Image
-        link: ./index.html#small-image
-  - name: Another Page
-    link: ./another-page.html
