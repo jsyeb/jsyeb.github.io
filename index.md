@@ -26,7 +26,12 @@ _Graduate Student_
   - Phonon linewidth(self-energy)
 - Phonon-phonon interaction
   - Lattice thermal conductivity
-  - High pressure phonon dispersion engineering
-- Fortran development
+  - Phonon engineering with high-pressure
+- Development
   - [Quantum Espresso](https://www.quantum-espresso.org/)
   - [EPW](https://epw-code.org/)
+
+### Contact
+
+**Email address**   
+_jsyeb@utexas.edu_
